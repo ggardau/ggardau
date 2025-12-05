@@ -11,13 +11,6 @@
   * `Activity Tracker`: Screen Recording and Deep Learning for User Behavior Detection. (2024)
   *  `Solar-System`: A Real-Scale Solar System simulator (planet, moons, asteroids, stars) built with OpenGL in Python. (2024)
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggardau&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ggardau&theme=dark&hide_border=false" /><br/>
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=guillemgarcia2183&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
