@@ -1,6 +1,6 @@
 ## 🔍 About Me
 🎓 Data Engineer <br/>
-🛠️ Passionate about Data Management, Data Visualization, Data Protectio and AI <br/>
+🛠️ Passionate about Data Management, Data Visualization, Data Protection and AI <br/>
 🐍 Python Lover <br/>
 
 ## 💻 Tech Stack
